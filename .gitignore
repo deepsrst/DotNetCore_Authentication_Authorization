@@ -6,7 +6,7 @@
 bin/
 obj/
 
-# Common node modules locations
+# Common node modules locations updated
 /node_modules
 /wwwroot/node_modules
 
