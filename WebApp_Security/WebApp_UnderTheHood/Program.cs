@@ -5,6 +5,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddAuthentication("MyCookieAuth").AddCookie("MyCookieAuth", options => {
     options.Cookie.Name = "MyCookieAuth";
     //options.LoginPath = "/Account1/Login";
+    //options.AccessDeniedPath = "/";
 });
 
 builder.Services.AddAuthorization(options => {
