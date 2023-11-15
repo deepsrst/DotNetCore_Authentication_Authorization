@@ -1,9 +1,14 @@
+using Microsoft.AspNetCore.Authorization;
+using WebApp_UnderTheHood.Authorization;
+using static WebApp_UnderTheHood.Authorization.HRManagerProbationRequirement;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddAuthentication("MyCookieAuth").AddCookie("MyCookieAuth", options => {
     options.Cookie.Name = "MyCookieAuth";
+    options.ExpireTimeSpan = TimeSpan.FromSeconds(20);
     //options.LoginPath = "/Account1/Login";
     //options.AccessDeniedPath = "/";
 });
@@ -13,9 +18,12 @@ builder.Services.AddAuthorization(options => {
     options.AddPolicy("MustBelongToHRDepartment", policy => policy.RequireClaim("Department", "HR"));
     options.AddPolicy("HRManager", policy => policy
                     .RequireClaim("Department", "HR")
-                    .RequireClaim("Manager")              
+                    .RequireClaim("Manager")   
+                    .Requirements.Add( new HRManagerProbationRequirement(3))
                        );
 });
+
+builder.Services.AddSingleton<IAuthorizationHandler, HRManagerProbationRequirementHandler>();
 
 var app = builder.Build();
 

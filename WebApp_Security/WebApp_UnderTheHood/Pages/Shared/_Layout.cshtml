@@ -25,9 +25,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
+                  @*       <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Account/Login">Login</a>
-                        </li>
+                        </li> *@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/HRDepartment">HR Department</a>
                         </li>
@@ -38,7 +38,12 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/HRManagement">HR Management</a>
                         </li>
                     </ul>
+                </div class="mr-2">
+                <partial name="_LoginStatusPartial" />
+                <div>
+
                 </div>
+
             </div>
         </nav>
     </header>
