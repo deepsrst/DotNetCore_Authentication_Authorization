@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Web API\\Web API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
