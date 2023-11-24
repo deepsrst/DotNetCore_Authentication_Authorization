@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Web_API.Controllers
 {
-    [Authorize]
+    //[Authorize(policy:"AdminOnly")]
+    [Authorize(Policy ="AdminOnly")]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase

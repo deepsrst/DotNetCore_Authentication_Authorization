@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddAuthentication("MyCookieAuth").AddCookie("MyCookieAuth", options => {
     options.Cookie.Name = "MyCookieAuth";
-    options.ExpireTimeSpan = TimeSpan.FromSeconds(20);
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(20);
     //options.LoginPath = "/Account1/Login";
     //options.AccessDeniedPath = "/";
 });
@@ -28,6 +28,12 @@ builder.Services.AddHttpClient("OurWebAPI", client => {
     client.BaseAddress = new Uri("https://localhost:7221/");
 });
 
+builder.Services.AddSession(options => { 
+    options.Cookie.HttpOnly= true;  //to ensure, session is only accessible to html, but not to any javascript or other
+    options.IdleTimeout = TimeSpan.FromMinutes(20);   // set the expiration time if says idle
+    options.Cookie.IsEssential= true; // to ensure, session is essential
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -45,7 +51,7 @@ app.UseRouting();
 app.UseAuthentication();
 
 app.UseAuthorization();
-
+app.UseSession();
 app.MapRazorPages();
 
 app.Run();
