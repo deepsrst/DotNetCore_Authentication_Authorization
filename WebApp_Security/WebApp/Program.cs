@@ -12,16 +12,18 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => {
 });
 
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => {
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+{
     options.Password.RequiredLength = 8;
     options.Password.RequireLowercase = true;
     options.Password.RequireUppercase = true;
-    options.Lockout.MaxFailedAccessAttempts= 5; ;
-    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);   
+    options.Lockout.MaxFailedAccessAttempts = 5; ;
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);
     options.User.RequireUniqueEmail = true;
-
+    options.SignIn.RequireConfirmedEmail = true;
 })
-  .AddEntityFrameworkStores<ApplicationDbContext>();
+  .AddEntityFrameworkStores<ApplicationDbContext>()
+  .AddDefaultTokenProviders();
 
 builder.Services.ConfigureApplicationCookie(options => {
     options.LoginPath = "/Account/Login";

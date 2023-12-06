@@ -24,8 +24,15 @@ builder.Services.AddAuthorization(options => {
 });
 
 builder.Services.AddSingleton<IAuthorizationHandler, HRManagerProbationRequirementHandler>();
+
+
+
+
+
 builder.Services.AddHttpClient("OurWebAPI", client => {
-    client.BaseAddress = new Uri("https://localhost:7221/");
+    //client.BaseAddress = new Uri("https://localhost:7221/");  // api end point
+    client.BaseAddress = new Uri("https://api.openweathermap.org");  // api end point
+
 });
 
 builder.Services.AddSession(options => { 

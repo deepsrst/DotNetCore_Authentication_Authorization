@@ -8,7 +8,8 @@
       },
       {
         "Name": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": ""
       }
     ]
   }

@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\hrmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\webapp_underthehood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\webapp_underthehood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\hrmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,22 +87,6 @@
       "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\webapp_underthehood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\webapp_underthehood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -47,20 +99,8 @@
       "RelativeMoniker": "D:0:0:{B52169AD-CCBF-49D6-B8D2-7B07C94A837D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\web api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\hrmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\authorization\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,20 +139,12 @@
       "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrdepartment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|solutionrelative:web api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\hrdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\authorization\\hrmanagerprobationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\authorization\\hrmanagerprobationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\webapp_underthehood\\pages\\hrmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADDDB8CB-BCD5-4599-B83C-568A6D29579B}|WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj|solutionrelative:webapp_underthehood\\pages\\hrmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C071BF6-96C1-45CF-9577-274B0040E522}|Web API\\Web API.csproj|d:\\personal files\\dot net learning\\learning projects\\security\\webapp_security\\web api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -138,187 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-26T16:28:05.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-26T16:27:59.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-26T16:27:59.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Registration.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Registration.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml.cs",
-              "RelativeToolTip": "WebApp\\Pages\\Account\\Registration.cshtml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAABMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-26T15:41:12.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Registration.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\Account\\Registration.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-26T15:41:07.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-25T18:47:37.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.json",
-              "RelativeToolTip": "WebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-11-25T18:46:27.242Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-25T16:55:26.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20231125191000_Init.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Migrations\\20231125191000_Init.cs",
-              "RelativeDocumentMoniker": "WebApp\\Migrations\\20231125191000_Init.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Migrations\\20231125191000_Init.cs",
-              "RelativeToolTip": "WebApp\\Migrations\\20231125191000_Init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-25T19:10:00.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebApp_UnderTheHood.csproj",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
-              "RelativeToolTip": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-15T17:36:56.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-16T15:09:44.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WebApp\\appsettings.Development.json",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.Development.json",
-              "RelativeToolTip": "WebApp\\appsettings.Development.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-11-25T19:04:46.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Program.cs",
-              "RelativeDocumentMoniker": "Web API\\Program.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Program.cs",
-              "RelativeToolTip": "Web API\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T17:58:34.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\appsettings.json",
-              "RelativeDocumentMoniker": "Web API\\appsettings.json",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\appsettings.json",
-              "RelativeToolTip": "Web API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-11-23T18:11:03.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Web API.csproj",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Web API.csproj",
               "RelativeDocumentMoniker": "Web API\\Web API.csproj",
@@ -326,145 +178,152 @@
               "RelativeToolTip": "Web API\\Web API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-23T17:44:22.718Z"
+              "WhenOpened": "2023-11-23T17:44:22.718Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "Registration.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Registration.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\Registration.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T17:14:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T17:11:16.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-06T17:11:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T18:47:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Registration.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Registration.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T15:41:07.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Web API\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Web API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-23T18:11:00.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T16:37:07.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApp_UnderTheHood.csproj",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
+              "RelativeToolTip": "WebApp_UnderTheHood\\WebApp_UnderTheHood.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-15T17:36:56.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-23T18:15:12.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HRManagement.cshtml.cs",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml.cs",
               "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml.cs",
               "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml.cs",
               "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-16T10:27:05.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Settings.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Settings.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Settings.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "HRManagement.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-23T18:13:43.993Z"
+              "WhenOpened": "2023-11-16T09:30:46.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JwtToken.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T19:31:11.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T18:13:36.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T18:12:38.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Settings.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T18:13:44.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-23T18:15:12.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-23T18:12:38.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_LoginStatusPartial.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-15T17:24:18.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HRDepartment.cshtml.cs",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T17:45:33.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Web API\\WeatherForecast.cs",
@@ -476,7 +335,271 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:45:31.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T16:45:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T16:37:53.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T16:36:50.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T16:36:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:28:05.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:27:59.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:27:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-25T18:46:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T16:55:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20231125191000_Init.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Migrations\\20231125191000_Init.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20231125191000_Init.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\Migrations\\20231125191000_Init.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20231125191000_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T19:10:00.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "WebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-25T19:04:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Program.cs",
+              "RelativeDocumentMoniker": "Web API\\Program.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Program.cs",
+              "RelativeToolTip": "Web API\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T17:58:34.114Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web API\\appsettings.json",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\appsettings.json",
+              "RelativeToolTip": "Web API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-23T18:11:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Settings.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Settings.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Settings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-23T18:13:43.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Authorization\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T19:31:11.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T18:13:36.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T18:12:38.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Settings.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Settings.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T18:13:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-23T18:12:38.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T17:24:18.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HRDepartment.cshtml.cs",
+              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
+              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
+              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T17:45:33.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "HRDepartment.cshtml",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml",
               "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRDepartment.cshtml",
@@ -488,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "HRManagerProbationRequirement.cs",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Authorization\\HRManagerProbationRequirement.cs",
               "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Authorization\\HRManagerProbationRequirement.cs",
@@ -501,19 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "HRManagement.cshtml",
-              "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
-              "RelativeDocumentMoniker": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
-              "ToolTip": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
-              "RelativeToolTip": "WebApp_UnderTheHood\\Pages\\HRManagement.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-11-16T09:30:46.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Web API\\appsettings.Development.json",
@@ -525,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "Web API.http",
               "DocumentMoniker": "D:\\Personal files\\Dot Net Learning\\Learning Projects\\Security\\WebApp_Security\\Web API\\Web API.http",
               "RelativeDocumentMoniker": "Web API\\Web API.http",
