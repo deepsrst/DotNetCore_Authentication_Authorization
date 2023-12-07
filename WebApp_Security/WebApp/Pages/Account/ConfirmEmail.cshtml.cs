@@ -34,8 +34,6 @@ namespace WebApp.Pages.Account
            
                 Message = "Failed to validate user.";
 
-
-
             return Page();
         }
     }

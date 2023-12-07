@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WebApp.Data;
+using WebApp.Services;
+using WebApp.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,7 +31,14 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.LoginPath = "/Account/Login";
     options.AccessDeniedPath = "/Account/AccessDenied";
 });
-   
+
+//service that requires an instance of SMTP setting class, 
+//its' going to create a class on demand 
+//and it's going to load data from the app settings file from the given particular section 
+//and populate instance of this class with the data from this particular section.
+builder.Services.Configure<SMTPSettings>(builder.Configuration.GetSection("SMTP"));
+builder.Services.AddSingleton<IEmailService, EmailService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

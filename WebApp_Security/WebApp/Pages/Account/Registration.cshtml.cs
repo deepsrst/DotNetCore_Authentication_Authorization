@@ -3,15 +3,21 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.ComponentModel.DataAnnotations;
+using System.Net;
+using System.Net.Mail;
+using System.Runtime.InteropServices;
+using WebApp.Services;
 
 namespace WebApp.Pages.Account
 {
     public class RegistrationModel : PageModel
     {
+        private readonly IEmailService emailService;
 
-        public RegistrationModel(UserManager<IdentityUser> userManager)
+        public RegistrationModel(UserManager<IdentityUser> userManager, IEmailService emailService)
         {
             UserManager = userManager;
+            this.emailService = emailService;
         }
         [BindProperty]
         public RegistrationViewModel RegistrationViewModel { get; set; } = new RegistrationViewModel();
@@ -36,8 +42,23 @@ namespace WebApp.Pages.Account
             if (result.Succeeded)
             {
                 var confirmationToken = await UserManager.GenerateEmailConfirmationTokenAsync(user);
-                return Redirect(Url.PageLink(pageName: "/Account/ConfirmEmail", values: new { userid = user.Id, confirmationToken = confirmationToken }) ?? "");
-                //return RedirectToPage("/Account/Login");
+                //return Redirect(Url.PageLink(pageName: "/Account/ConfirmEmail", values: new { userid = user.Id, confirmationToken = confirmationToken }) ?? "");
+               var confirmationLink= (Url.PageLink(pageName: "/Account/ConfirmEmail", values: new { userid = user.Id, confirmationToken = confirmationToken }) ?? "");
+              
+                await  emailService.SendAsync("shresthadeepak61@gmail.com", user.Email,"Confirm Email", $"Click the given link in order to confirm the registration {confirmationLink}");
+                //var message = new MailMessage("shresthadeepak61@gmail.com", user.Email,
+                //    "Confirm Email"
+                //    , $"Click the given link in order to confirm the registration {confirmationLink}");
+
+                //using (var emailClient = new SmtpClient("smtp-relay.brevo.com",587))
+                //{
+                //    emailClient.Credentials = new NetworkCredential("shresthadeepak61@gmail.com", "4BHXN2VMAPRO3DcT");
+
+                //    await emailClient.SendMailAsync(message);
+                return RedirectToAction("/Account/Login");
+
+                //}
+
             }
             else
             {
